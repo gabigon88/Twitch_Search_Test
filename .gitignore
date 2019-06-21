@@ -1,3 +1,9 @@
+# 忽略 IDE VS Code 的檔案
+.vscode/
+
+# 忽略 selenium 瀏覽器driver的log檔案
+geckodriver.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
